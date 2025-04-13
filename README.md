@@ -44,7 +44,6 @@ This project involves data cleaning, visualization, and uncovering trends in the
 
 - `Netflix_EDA.ipynb`: The main notebook with all code, charts, and observations
 - `visuals/`: Folder containing exported plots (optional)
-- `data/`: Folder to store the dataset (optional, or add Kaggle download instructions)
 
 ---
 
